@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/insta/static/css/main.f49f073e.chunk.css",
+    "main.css": "/insta/static/css/main.ca544475.chunk.css",
     "main.js": "/insta/static/js/main.88739cac.chunk.js",
     "main.js.map": "/insta/static/js/main.88739cac.chunk.js.map",
     "runtime-main.js": "/insta/static/js/runtime-main.90da8f22.js",
@@ -12,14 +12,14 @@
     "static/js/3.e2b435cd.chunk.js.map": "/insta/static/js/3.e2b435cd.chunk.js.map",
     "index.html": "/insta/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/insta/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.f49f073e.chunk.css.map": "/insta/static/css/main.f49f073e.chunk.css.map",
+    "static/css/main.ca544475.chunk.css.map": "/insta/static/css/main.ca544475.chunk.css.map",
     "static/js/2.0d5eac8f.chunk.js.LICENSE.txt": "/insta/static/js/2.0d5eac8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.90da8f22.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.0d5eac8f.chunk.js",
-    "static/css/main.f49f073e.chunk.css",
+    "static/css/main.ca544475.chunk.css",
     "static/js/main.88739cac.chunk.js"
   ]
 }
